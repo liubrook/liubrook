@@ -7,7 +7,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 - 📫 我的邮箱: [492525217@qq.com](mailto:492525217@qq.com);
-- 📝 [我的个人主页](https://brookliu.com/)
+- 📝 [我的个人主页](https://brookliu.com/);
 
 **技术栈 与 开发工具:**
 
